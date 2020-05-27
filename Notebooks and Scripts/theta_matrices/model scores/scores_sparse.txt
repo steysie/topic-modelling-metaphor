@@ -1,0 +1,32 @@
+{
+  "40": {
+    "PerplexityScore": 4669.0,
+    "SparsityPhiScore": 0.93,
+    "SparsityThetaScore": 0.73
+  },
+  "50": {
+    "PerplexityScore": 4322.0,
+    "SparsityPhiScore": 0.94,
+    "SparsityThetaScore": 0.76
+  },
+  "60": {
+    "PerplexityScore": 4065.0,
+    "SparsityPhiScore": 0.95,
+    "SparsityThetaScore": 0.78
+  },
+  "70": {
+    "PerplexityScore": 3898.0,
+    "SparsityPhiScore": 0.96,
+    "SparsityThetaScore": 0.8
+  },
+  "80": {
+    "PerplexityScore": 3803.0,
+    "SparsityPhiScore": 0.96,
+    "SparsityThetaScore": 0.81
+  },
+  "90": {
+    "PerplexityScore": 3686.0,
+    "SparsityPhiScore": 0.97,
+    "SparsityThetaScore": 0.83
+  }
+}

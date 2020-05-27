@@ -1,0 +1,198 @@
+metcorp_tm_lda30.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.680 +- 0.005
+	 Train precision: 0.690 +- 0.003
+	 Train recall: 0.653 +- 0.020
+	 Train f1-score: 0.671 +- 0.010
+Scores for Linear SVM
+	 Train accuracy: 0.647 +- 0.013
+	 Train precision: 0.668 +- 0.014
+	 Train recall: 0.583 +- 0.016
+	 Train f1-score: 0.623 +- 0.015
+Scores for Neural Net
+	 Train accuracy: 0.673 +- 0.009
+	 Train precision: 0.678 +- 0.014
+	 Train recall: 0.661 +- 0.019
+	 Train f1-score: 0.669 +- 0.009
+
+==============================
+metcorp_tm_lda40.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.709 +- 0.009
+	 Train precision: 0.705 +- 0.006
+	 Train recall: 0.720 +- 0.019
+	 Train f1-score: 0.712 +- 0.012
+Scores for Linear SVM
+	 Train accuracy: 0.679 +- 0.008
+	 Train precision: 0.644 +- 0.008
+	 Train recall: 0.801 +- 0.015
+	 Train f1-score: 0.714 +- 0.008
+Scores for Neural Net
+	 Train accuracy: 0.708 +- 0.010
+	 Train precision: 0.704 +- 0.011
+	 Train recall: 0.718 +- 0.030
+	 Train f1-score: 0.711 +- 0.015
+
+==============================
+metcorp_tm_lda50.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.700 +- 0.010
+	 Train precision: 0.697 +- 0.006
+	 Train recall: 0.708 +- 0.025
+	 Train f1-score: 0.703 +- 0.014
+Scores for Linear SVM
+	 Train accuracy: 0.671 +- 0.010
+	 Train precision: 0.636 +- 0.007
+	 Train recall: 0.799 +- 0.014
+	 Train f1-score: 0.708 +- 0.009
+Scores for Neural Net
+	 Train accuracy: 0.697 +- 0.009
+	 Train precision: 0.688 +- 0.009
+	 Train recall: 0.722 +- 0.015
+	 Train f1-score: 0.705 +- 0.010
+
+==============================
+metcorp_tm_lda60.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.694 +- 0.009
+	 Train precision: 0.699 +- 0.008
+	 Train recall: 0.683 +- 0.015
+	 Train f1-score: 0.691 +- 0.011
+Scores for Linear SVM
+	 Train accuracy: 0.660 +- 0.009
+	 Train precision: 0.644 +- 0.011
+	 Train recall: 0.717 +- 0.006
+	 Train f1-score: 0.678 +- 0.007
+Scores for Neural Net
+	 Train accuracy: 0.691 +- 0.011
+	 Train precision: 0.692 +- 0.020
+	 Train recall: 0.692 +- 0.025
+	 Train f1-score: 0.691 +- 0.010
+
+==============================
+metcorp_tm_lda70.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.699 +- 0.010
+	 Train precision: 0.706 +- 0.008
+	 Train recall: 0.683 +- 0.014
+	 Train f1-score: 0.695 +- 0.011
+Scores for Linear SVM
+	 Train accuracy: 0.675 +- 0.013
+	 Train precision: 0.651 +- 0.012
+	 Train recall: 0.758 +- 0.012
+	 Train f1-score: 0.700 +- 0.011
+Scores for Neural Net
+	 Train accuracy: 0.695 +- 0.011
+	 Train precision: 0.698 +- 0.019
+	 Train recall: 0.688 +- 0.035
+	 Train f1-score: 0.692 +- 0.015
+
+==============================
+metcorp_tm_lda80.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.709 +- 0.008
+	 Train precision: 0.728 +- 0.007
+	 Train recall: 0.670 +- 0.012
+	 Train f1-score: 0.698 +- 0.009
+Scores for Linear SVM
+	 Train accuracy: 0.679 +- 0.012
+	 Train precision: 0.662 +- 0.014
+	 Train recall: 0.736 +- 0.015
+	 Train f1-score: 0.697 +- 0.010
+Scores for Neural Net
+	 Train accuracy: 0.705 +- 0.007
+	 Train precision: 0.720 +- 0.015
+	 Train recall: 0.672 +- 0.026
+	 Train f1-score: 0.695 +- 0.011
+
+==============================
+metcorp_tm_lda90.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.700 +- 0.009
+	 Train precision: 0.709 +- 0.010
+	 Train recall: 0.678 +- 0.012
+	 Train f1-score: 0.693 +- 0.009
+Scores for Linear SVM
+	 Train accuracy: 0.678 +- 0.014
+	 Train precision: 0.651 +- 0.018
+	 Train recall: 0.771 +- 0.022
+	 Train f1-score: 0.705 +- 0.010
+Scores for Neural Net
+	 Train accuracy: 0.697 +- 0.010
+	 Train precision: 0.698 +- 0.011
+	 Train recall: 0.698 +- 0.014
+	 Train f1-score: 0.698 +- 0.010
+
+==============================
+metcorp_tm_lda100.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.694 +- 0.016
+	 Train precision: 0.687 +- 0.017
+	 Train recall: 0.715 +- 0.018
+	 Train f1-score: 0.701 +- 0.015
+Scores for Linear SVM
+	 Train accuracy: 0.668 +- 0.018
+	 Train precision: 0.633 +- 0.018
+	 Train recall: 0.804 +- 0.008
+	 Train f1-score: 0.708 +- 0.011
+Scores for Neural Net
+	 Train accuracy: 0.689 +- 0.019
+	 Train precision: 0.675 +- 0.021
+	 Train recall: 0.733 +- 0.037
+	 Train f1-score: 0.702 +- 0.020
+
+==============================
+metcorp_tm_lda110.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.687 +- 0.011
+	 Train precision: 0.706 +- 0.015
+	 Train recall: 0.642 +- 0.012
+	 Train f1-score: 0.672 +- 0.010
+Scores for Linear SVM
+	 Train accuracy: 0.642 +- 0.022
+	 Train precision: 0.606 +- 0.022
+	 Train recall: 0.821 +- 0.018
+	 Train f1-score: 0.697 +- 0.013
+Scores for Neural Net
+	 Train accuracy: 0.679 +- 0.013
+	 Train precision: 0.690 +- 0.034
+	 Train recall: 0.658 +- 0.038
+	 Train f1-score: 0.672 +- 0.006
+
+==============================
+metcorp_tm_lda120.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.671 +- 0.011
+	 Train precision: 0.683 +- 0.019
+	 Train recall: 0.644 +- 0.026
+	 Train f1-score: 0.662 +- 0.011
+Scores for Linear SVM
+	 Train accuracy: 0.623 +- 0.015
+	 Train precision: 0.590 +- 0.017
+	 Train recall: 0.816 +- 0.030
+	 Train f1-score: 0.684 +- 0.005
+Scores for Neural Net
+	 Train accuracy: 0.668 +- 0.012
+	 Train precision: 0.658 +- 0.015
+	 Train recall: 0.701 +- 0.018
+	 Train f1-score: 0.679 +- 0.010
+
+==============================
+metcorp_tm_lda130.csv
+Scores for Logistic Regression
+	 Train accuracy: 0.662 +- 0.007
+	 Train precision: 0.674 +- 0.015
+	 Train recall: 0.630 +- 0.022
+	 Train f1-score: 0.651 +- 0.007
+Scores for Linear SVM
+	 Train accuracy: 0.608 +- 0.016
+	 Train precision: 0.574 +- 0.014
+	 Train recall: 0.848 +- 0.022
+	 Train f1-score: 0.684 +- 0.006
+Scores for Neural Net
+	 Train accuracy: 0.651 +- 0.010
+	 Train precision: 0.644 +- 0.028
+	 Train recall: 0.690 +- 0.069
+	 Train f1-score: 0.663 +- 0.022
+
+==============================
