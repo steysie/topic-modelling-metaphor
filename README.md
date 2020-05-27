@@ -9,3 +9,5 @@ This repository contains notebooks, datasets and other files with experiments fo
 
 * **Notebooks and Scripts** folder contains Jupyter notebooks and scripts, as well as output files obtained from the notebooks: topics' top word examples, classifier results and theta matrices with topic features for Metaphor corpus. 
 
+All files from this repository and many other files are available at [this Google Drive storage](https://drive.google.com/open?id=1UufXFYQtZnimV4LHgqZBLdfjikwWKwEv).
+
